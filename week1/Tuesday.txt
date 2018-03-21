@@ -26,3 +26,4 @@ But what was really broken, was the process.
 We were artificially constraining how long we had to do something, pretty much ensuring a variable outcome.
 
 And we took the trouble of inspecting and identifying those gaps, but then we built right on top of it.
+
